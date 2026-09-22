@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-08T14:51:09 IST" name="Command line suite" finished-at="2026-09-08T14:51:25 IST" duration-ms="15797">
+    <groups>
+    </groups>
+    <test started-at="2026-09-08T14:51:09 IST" name="Command line test" finished-at="2026-09-08T14:51:25 IST" duration-ms="15797">
+      <class name="org.example.LoginTest">
+        <test-method is-config="true" signature="setupall()[pri:0, instance:org.example.LoginTest@2c039ac6]" started-at="2026-09-08T14:51:09 IST" name="setupall" finished-at="2026-09-08T14:51:19 IST" duration-ms="9978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupall -->
+        <test-method signature="shoppingTest()[pri:0, instance:org.example.LoginTest@2c039ac6]" started-at="2026-09-08T14:51:19 IST" name="shoppingTest" finished-at="2026-09-08T14:51:25 IST" duration-ms="5775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingTest -->
+      </class> <!-- org.example.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
